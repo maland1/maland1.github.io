@@ -12,6 +12,11 @@ npm-debug.log
 yarn-error.log
 
 # IDEs and editors
+.vscode/**/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
 .idea/
 .project
 .classpath
